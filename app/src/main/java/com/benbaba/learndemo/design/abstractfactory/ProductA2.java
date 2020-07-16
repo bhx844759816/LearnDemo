@@ -1,7 +1,7 @@
 package com.benbaba.learndemo.design.abstractfactory;
 
 /**
- * 具体的产品A
+ * 具体的产品A2
  */
-public class ProductA1 implements AbstractProductA {
+public class ProductA2 implements AbstractProductA {
 }
